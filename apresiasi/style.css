@@ -1,0 +1,27 @@
+textarea {
+	width: 2000px;
+	height: 100px;
+	background-color: #fff;
+	resize: none;
+	font-family: times new roman;
+	font-size: 14px;
+	max-height: 100%;
+	max-width: 100%;
+	/*width: 100%;*/
+}
+.boxcomment {
+	padding: 20px;
+	margin-bottom: 9px;
+	background-color: #fff;
+	border-radius: 4px;
+	position: relative;
+}
+.tanggal {
+	position: absolute;
+	top: 15px;
+	right: 5px;
+}
+.button {
+	position: absolute;
+	right: 5px;
+}
